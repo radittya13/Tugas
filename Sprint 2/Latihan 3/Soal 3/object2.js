@@ -1,4 +1,4 @@
-function arrayto0bject(arr){
+function arraytoobject(arr){
     var date = new Date ()
     var data1 = date.getFullYear() - arr["1. Abduh Muhamad"][3]
     var data2 = date.getFullYear() - arr["2. Ahmad Taufik"][3]
@@ -37,4 +37,4 @@ var people = {
     ]
 }
 
-arrayToObject(people) 
+arrayToobject(people) 
